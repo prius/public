@@ -1,1 +1,1 @@
-[Linked In](https://linkedin.com/in/pvs)
+Hamster Kombat Minigame Puzzle simulator [https://fspv.github.io/hamster-kombat-puzzle-sim/](https://fspv.github.io/hamster-kombat-puzzle-sim/)
